@@ -1,4 +1,4 @@
-public class Slime {
+public class SlimeLesson {
   public static void main(String...args) {
     int hp = 30;
     int hit;
